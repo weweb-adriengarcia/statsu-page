@@ -4,7 +4,7 @@ repo: statsu-page # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://thissitedoesnotexist.koj.co
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
